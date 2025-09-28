@@ -10,10 +10,7 @@ public class ClickAllProducts {
         // Setup ChromeDriver
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
-        WebDriver driver = new ChromeDriver();
-        WebDriver driver = new ChromeDriver();
-        WebDriver driver = new ChromeDriver();
-        WebDriver driver = new ChromeDriver();
+      
         
 
         try {
