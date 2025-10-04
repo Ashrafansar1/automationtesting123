@@ -18,6 +18,8 @@ public class findbroken {
 
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver();WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver();
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
